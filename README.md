@@ -14,7 +14,7 @@
 ## Utworzenie publicznego repozytorium zdalnego na platformie GitHub za pomocą narzędzia GitHub CLI (gh) oraz wypchnięcie (push) lokalnej zawartości projektu 
 <img width="635" height="264" alt="image" src="https://github.com/user-attachments/assets/72c7d473-0f88-42ed-965b-08b0beba1a95" />
 
-##Dodanie zmodyfikowanego pliku Dockerfile do obszaru oczekującego oraz zatwierdzenie zmian w lokalnym repozytorium. Skuteczne przesłanie lokalnych zatwierdzeń do zdalnego repozytorium na platformie GitHub, skutkujące aktualizacją gałęzi main na serwerze. 
+## Dodanie zmodyfikowanego pliku Dockerfile do obszaru oczekującego oraz zatwierdzenie zmian w lokalnym repozytorium. Skuteczne przesłanie lokalnych zatwierdzeń do zdalnego repozytorium na platformie GitHub, skutkujące aktualizacją gałęzi main na serwerze. 
 <img width="574" height="131" alt="image" src="https://github.com/user-attachments/assets/e5916e14-6e61-428b-8747-ba60779310b1" />
 <img width="568" height="179" alt="image" src="https://github.com/user-attachments/assets/1470ace3-ce64-429d-87cf-01dbb82f7f9d" />
 
